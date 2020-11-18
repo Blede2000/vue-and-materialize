@@ -1,4 +1,4 @@
 publicPath: process.env.NODE_ENV === 'production'
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'? '/~alvarezporrasal/box-site/': '/',
+    publicPath: process.env.NODE_ENV === 'production'? '/~name/box-site/': '/',
 }
